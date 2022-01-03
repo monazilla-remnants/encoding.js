@@ -1,6 +1,6 @@
 {
   "name": "@monazilla-remnants/encoding-japanese",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "description": "Convert or detect character encoding in JavaScript",
   "main": "src/index.js",
   "directories": {
